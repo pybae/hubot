@@ -6,6 +6,7 @@
   "description": "I'm a bot",
   "dependencies": {
     "hubot": "^2.11.4",
+    "hubot-business-cat": "^1.1.17",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.4",
     "hubot-google-translate": "^0.1.0",
@@ -18,7 +19,8 @@
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.2",
     "hubot-slack": "^3.3.0",
-    "hubot-youtube": "^0.1.2"
+    "hubot-youtube": "^0.1.2",
+    "jsdom": "^4.1.0"
   },
   "engines": {
     "node": "0.10.x"
