@@ -5,7 +5,7 @@
   "author": "Paul Bae <pbae@utexas.edu>",
   "description": "I'm a bot",
   "dependencies": {
-    "hubot": "^2.11.4",
+    "hubot": "^2.19.0",
     "hubot-business-cat": "^1.1.17",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.4",
